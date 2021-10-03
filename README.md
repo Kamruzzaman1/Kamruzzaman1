@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kamruzzaman
+- 👋 Hi, I’m  Kamruzzaman
 - 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning jqury/javascript
 - 💞️ I’m looking to collaborate on github
