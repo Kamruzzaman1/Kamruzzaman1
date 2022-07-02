@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Kamruzzaman
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning jqury/javascript
+- 🌱 I’m currently learning html/css/git/javascript/mongoDB/reactjs etc.
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me 
 
